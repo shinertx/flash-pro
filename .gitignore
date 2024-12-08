@@ -1,0 +1,17 @@
+node_modules/
+artifacts/
+cache/
+node_modules
+artifacts
+cache
+.env
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Temporary files
+*.log
+*.tmp
+
